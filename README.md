@@ -23,7 +23,6 @@ Open the file `YourName_GlobalEduDashboard.xlsx` and use the `Dashboard` sheet t
 
 ## Author
 Solomon Wasse
-Your email or contact (optional)
-
+solomonbezza@gmail.com
 ## Date
 June 2025
